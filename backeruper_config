@@ -1,0 +1,15 @@
+{
+    "backupFile": "~/Box Documents/Default Sync Folder/backup.tar",
+    "path": "~/",
+    "ignores": [
+        "Movies",
+        "Downloads",
+        "Music",
+        "Applications",
+        "Box Documents",
+        ".Trash",
+        ".rvm",
+        ".gem",
+        ".npm"
+    ]
+}
